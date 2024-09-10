@@ -8,3 +8,4 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub.
 
 This repository is built step by step in the tutorial.
+Hello world, this is a new line we just add
